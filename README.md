@@ -3,7 +3,8 @@
 
 ### Installation
 
-Dillinger requires [Python3](https://www.python.org/download/releases/3.0/) v3+ to run.
+Locateip requires [Python3](https://www.python.org/download/releases/3.0/) v3+ to run.
+Locateip requires [git](https://git-scm.com/).
 
 Clone this repository
 ```sh
