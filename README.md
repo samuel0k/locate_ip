@@ -1,7 +1,7 @@
-### locate_ip
+## locate_ip
 
 
-## Installation
+### Installation
 
 Dillinger requires [Python3](https://www.python.org/download/releases/3.0/) v3+ to run.
 
@@ -13,8 +13,3 @@ $ pip install -r requests.txt
 $ python main.py
 ```
 
-```sh
-$ cd dillinger
-$ npm install -d
-$ node app
-```
