@@ -10,7 +10,7 @@ Clone this repository
 ```sh
 $ git clone https://github.com/samuel0k/locate_ip.git locateip
 $ cd locateip
-$ pip install -r requests.txt
+$ pip install -r requirements.txt
 $ python main.py
 ```
 
